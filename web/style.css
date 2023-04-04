@@ -1,0 +1,15 @@
+ul
+{
+    padding: 10;
+    margin: 10;
+}
+
+li
+{
+    list-style: none;
+}
+.cate
+{
+    display: flex;
+    justify-content: center;
+}
